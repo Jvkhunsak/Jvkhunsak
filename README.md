@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jvkhunsak
+- 👋 Hi, I’m @khunsa
 - 👀 I’m interested in ...Web development 
 - 🌱 I’m currently learning ...BSCS
 - 💞️ I’m looking to collaborate on ...web development 
